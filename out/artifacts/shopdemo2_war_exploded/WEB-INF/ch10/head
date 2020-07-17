@@ -1,0 +1,16 @@
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<div align = "center">
+    <font color = red ><H4>"李赞"小商品城</H4></font>
+    <table cellSpacing = "1" cellPadding = "1" width = "660" align = "center" border = "0">
+        <tr valign = "bottom">
+               <td><A href="inputRegisterMess.jsp">注册</font></A></td>
+               <td><A href="login.jsp">登录</A></td>
+               <td><A href="lookCosmetic.jsp">浏览商品</A></td>
+               <td><A href="searchCosmetic.jsp">查询商品</A></td>
+               <td><A href="lookShoppingCar.jsp">查看购物车</A></td>
+               <td><A href="lookOrderForm.jsp">查看订单</A></td>
+               <td><A href="exitServlet">退出</A></td>
+               <td><A href="index.jsp">主页</A></td>
+        </tr>
+    </table>
+</div>
